@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "instagram-ptbr",
+  "description": "Pacote de skills de Instagram para o Claude, em português do Brasil",
+  "owner": {
+    "name": "Leopoldino (@leopoldino.z)"
+  },
+  "plugins": [
+    {
+      "name": "instagram-ptbr",
+      "description": "14 skills que cuidam de um Instagram em português: roteiro de Reel com gancho avaliado, pesquisa de virais, legenda, carrossel, stories, perfil, plano da semana, comentários, DMs e um humanizador que tira a cara de IA.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/leopoldino-tech/instagram-agent-ptbr"
+    }
+  ]
+}

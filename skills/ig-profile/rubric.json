@@ -1,0 +1,91 @@
+{
+  "version": "2.0-ptbr",
+  "total": 100,
+  "note": "Doze itens. Dê nota com honestidade, nota generosa não ajuda ninguém. A maioria dos perfis fica entre 30 e 49 na primeira passada. O peso é proposital: o campo de nome, a primeira linha da bio e os três fixados valem mais que a foto, porque é isso que um desconhecido que chegou por um reel processa antes de decidir seguir.",
+  "items": [
+    {
+      "id": "name_field",
+      "label": "campo de nome",
+      "points": 12,
+      "full_marks": "O campo de nome (30 caracteres, a linha em negrito, não o @) tem o nome mais o que a pessoa faz em palavras que alguém pesquisaria: 'Dana Ruiz | Edição de vídeo'. A busca do Instagram lê esse campo e quase todo mundo desperdiça com o nome sozinho.",
+      "common_fail": "Só o nome, ou nome com emoji."
+    },
+    {
+      "id": "bio_first_line",
+      "label": "1ª linha da bio",
+      "points": 12,
+      "full_marks": "A primeira linha diz pra quem é e o que muda pra essa pessoa, nas palavras dela. Não é cargo, não é lista de adjetivos, não são três emojis separados por barra.",
+      "common_fail": "'Empreendedor | Amante de café | Pai de pet'."
+    },
+    {
+      "id": "bio_body",
+      "label": "resto da bio",
+      "points": 8,
+      "full_marks": "O resto dos 150 caracteres traz uma prova ou uma oferta específica, e se lê como frase, não como lista separada por barras.",
+      "common_fail": "Sopa de palavra-chave, ou espaço em branco."
+    },
+    {
+      "id": "pinned_three",
+      "label": "3 fixados",
+      "points": 10,
+      "full_marks": "Três posts fixados no topo do grid, com três funções diferentes: a melhor prova, a explicação mais clara da oferta e a melhor apresentação da pessoa. Não os três com mais view por acaso.",
+      "common_fail": "Nada fixado, então o topo do grid é o que foi postado por último."
+    },
+    {
+      "id": "link",
+      "label": "link",
+      "points": 8,
+      "full_marks": "Um destino que combina com o que a bio acabou de prometer. O Instagram deixa pôr até cinco links; mais de dois já é cardápio, e cardápio converte pior que porta.",
+      "common_fail": "Um linktree com onze opções, ou nenhum link."
+    },
+    {
+      "id": "highlights",
+      "label": "destaques",
+      "points": 8,
+      "full_marks": "Quatro a seis destaques com nome das perguntas que um comprador faz: Preços, Resultados, Como funciona, Sobre. Capas consistentes. Nada com mais de um ano na frente.",
+      "common_fail": "'Aleatório', 'Vida', 'Favs', ou 14 destaques sem ordem."
+    },
+    {
+      "id": "grid_legibility",
+      "label": "grid legível",
+      "points": 8,
+      "full_marks": "As nove primeiras capas são legíveis em miniatura e dizem do que é a conta sem nenhum toque. As capas de reel são escolhidas de propósito, não o primeiro quadro.",
+      "common_fail": "Nove capas de um rosto no meio de uma palavra, sem texto."
+    },
+    {
+      "id": "photo",
+      "label": "foto",
+      "points": 6,
+      "full_marks": "O rosto ocupa uns 60% de um círculo que aparece com uns 40 pixels. Olhos visíveis, foto dos últimos dois anos, fundo que não compete.",
+      "common_fail": "Foto de corpo inteiro, logo numa marca pessoal, ou selfie de braço esticado num quarto escuro."
+    },
+    {
+      "id": "handle",
+      "label": "@",
+      "points": 6,
+      "full_marks": "Legível, dá pra falar em voz alta, e é o mesmo @ das outras redes. Sem underline empilhado ou número no lugar de letra.",
+      "common_fail": "Um @ que ninguém consegue escrever depois de ouvir uma vez."
+    },
+    {
+      "id": "category_contact",
+      "label": "categoria e contato",
+      "points": 6,
+      "full_marks": "Conta profissional com categoria que combina com a oferta, e botões de contato que funcionam. E-mail que alguém lê, não o de 2019.",
+      "common_fail": "Conta pessoal, então não tem insights nem botão de contato."
+    },
+    {
+      "id": "recent_activity",
+      "label": "atividade recente",
+      "points": 10,
+      "full_marks": "Postou nos últimos sete dias e respondeu os comentários do post mais recente. Conta que postou pela última vez em março parece fechada.",
+      "common_fail": "Cinco semanas sem postar, ou um muro de comentários sem resposta."
+    },
+    {
+      "id": "story_presence",
+      "label": "presença nos stories",
+      "points": 6,
+      "full_marks": "Um story no ar agora, ou pelo menos na maioria dos dias. É a diferença entre um perfil e uma pessoa.",
+      "common_fail": "Nunca tem o círculo colorido."
+    }
+  ]
+}

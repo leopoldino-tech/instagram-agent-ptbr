@@ -1,0 +1,12 @@
+{
+  "name": "instagram-ptbr",
+  "description": "14 skills do Claude em português do Brasil pra cuidar de um Instagram: roteiro de Reel com 26 fórmulas de gancho e nota, pesquisa de virais no seu nicho, legenda revisada contra o corte do feed, carrossel, stories, nota do perfil, plano da semana, comentários, respostas, DMs, reaproveitamento de conteúdo, auditoria e um humanizador que tira a cara de IA antes de qualquer coisa sair.",
+  "version": "2.0.0",
+  "author": {
+    "name": "Leopoldino (@leopoldino.z)"
+  },
+  "homepage": "https://github.com/leopoldino-tech/instagram-agent-ptbr",
+  "repository": "https://github.com/leopoldino-tech/instagram-agent-ptbr",
+  "license": "MIT",
+  "keywords": ["instagram", "reels", "conteudo", "legenda", "humanizador", "portugues", "ptbr", "marketing"]
+}
